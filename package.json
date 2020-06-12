@@ -1,0 +1,26 @@
+{
+  "name": "awesome-solid",
+  "version": "0.1.0",
+  "description": "⬣ Awesome list of Solid tools, libraries, resources, and shiny things.",
+  "main": "README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "awesome-lint": "^0.13.0"
+  },
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pdsinterop/awesome-solid.git"
+  },
+  "keywords": [
+    "awesome", "awesome-list", "solid","solid-server","solid-app"
+  ],
+  "author": "PDS Interop",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/pdsinterop/awesome-solid/issues"
+  },
+  "homepage": "https://pdsinterop.org/awesome-solid/"
+}
