@@ -67,6 +67,19 @@ Things built on top of solid or that plug Solid into other things.
   ([docs](https://docs.solidpay.org/))
   ([GitHub](https://github.com/solidpayorg)).
 
+
+<!--
+I do not (yet) feel comfortable publishing these sections as there don't seem to
+be any production-ready Pod providers. Only the one prototypes in multiple places.
+
+## Providers
+
+- [inrupt.net](https://inrupt.net/) - Hosted by Inrupt, Inc. on Amazon.
+- [solid.community](https://solid.community/) - Hosted by (?)) on (?)).
+- [Solid Web](https://solidweb.org/) - Hosted by Matthias Evering on (?)
+
+-->
+
 ## Specifications, Manuals, and other documentation
 
 - [MIT Solid Project Website](https://solid.mit.edu/) - Homepage for the Solid MIT Project
