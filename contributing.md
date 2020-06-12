@@ -11,16 +11,16 @@ adding.
 
 To speed things along, create a merge-request yourself that adds the suggestion.
 
-In order to guarantee an equal opertunity for all entries, please ensure your
+In order to guarantee an equal opportunity for all entries, please ensure your
 merge-request adheres to the following guidelines:
 
 1. Entries within each section are placed in alphabetical order. When adding a
    new entry, make sure it is in the appropriate place.
 
-2. The entry should contain a name, link, and brief description. It should look
-   like this:
+2. The entry should contain a name, link, and brief description, with the item
+   link and description separated with a dash. It should look like this:
    ```
-   - [Some Project](https://example/com/projects/some) A project that does a thing
+   - [Some Project](https://example/com/projects/some) - A project that does a thing
    ```
 
 3. For the sake of readability of the source file, keep lines shorter than 80
@@ -31,22 +31,24 @@ merge-request adheres to the following guidelines:
 
    ```
    - [Some Project](https://example/com/projects/with-some-very-long-url)
-     A project that does a thing
+     \- A project that does a thing
    ```
 
-4. If, besides a main web presence, an entry has more links (for instance a
-   related blog post, Github organisation, or a source code epository), please
-   add a link to those as well. The web presence should come first. Other links should be added last, after the description, each on their own line.
+4. If, besides the main link, an entry has more links (for instance a related
+   blog post, Github organization, or a source code repository), please add a
+   link to those as well. The web presence should come first. Other links should
+   be added last, after the description, each on their own line.
 
    The format is:
    ```
-   - [Some Project](https://example/com/projects/some) A project that does a thing
+   - [Some Project](https://example/com/projects/some) - A project that does a thing
     ([blog](https://blog.example.com/some-project))
     ([repo](https://github.com/example/repo))
    ```
 
 5. If an entry's main link is a blog post or article, please provide the year in
-   which it was written, outside of the linked text. For non-mai links this is not needed, as that would add too much distraction.
+   which it was written, outside of the linked text. For non-main links this is
+   not needed, as that would add too much distraction.
 
    Format:
    ```
@@ -56,7 +58,7 @@ merge-request adheres to the following guidelines:
 6. If the entry does not comfortably fit in any of the existing sections, feel
    free create a new section more to your liking!
 
-7. If the entry is part of an existing sections that covers several topics,
+7. If the entry is part of an existing section that covers several topics,
    feel free to split the section into several sections if things become too
    crowded.
 
@@ -65,11 +67,11 @@ merge-request adheres to the following guidelines:
 
 9. This list is not meant for self-promotion. As Solid is still fairly young, we
    understand the need to attain more exposure. If you _are_ the author of the
-   item you are suggestion, take extra care to explain in your merge-request
+   item you are suggesting, take extra care to explain in your merge-request
    _why_ your entry is  awesome for others. No sales pitch, just the (awesome)
    facts, please!
 
-Thank you for your suggestions and for following these guidlines!
+Thank you for your suggestions and for following these guidelines!
 
 ## Updating your PR
 
