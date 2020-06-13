@@ -84,9 +84,9 @@ be any production-ready Pod providers. Only the one prototypes in multiple place
 
 ## Servers
 
-- [PHP Solid Server](https://github.com/pdsinterop/solid-php-server)
+- [PHP Solid Server](https://pdsinterop.org/php-solid-server/)
   \- Solid Server written in PHP
-  ([repo](https://github.com/pdsinterop/solid-php-server))
+  ([repo](https://github.com/pdsinterop/php-solid-server))
 
 -->
 
