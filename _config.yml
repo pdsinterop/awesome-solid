@@ -1,0 +1,43 @@
+---
+baseurl: /awesome-solid
+description:  ⬣ Awesome list of Solid (social inked data) tools, libraries, resources, and shiny things.
+repository: pdsinterop/awesome-solid
+title: Awesome Solid
+url: https://pdsinterop.org
+
+permalink: pretty
+remote_theme: Potherca/extend-the-docs@v0.3.0
+
+exclude:
+  - "*.json"
+
+plugins:
+  - github-pages
+
+# Extend the Docs settings (see https://pother.ca/extend-the-docs/)
+nav:
+  cross_repository:
+    exclude:
+      - jekyll-theme
+      - pdsinterop.github.io
+    show_archived: true
+    show_homepage: false
+  exclude:
+    - /
+    - /404.html
+    - /code-of-conduct/
+  favicon_ico : /favicon.ico
+  main_title:
+    link: '/'
+  recurse: true
+
+  # Just the Docs settings (see https://pmarsceill.github.io/just-the-docs/docs/configuration/)
+aux_links:
+  "PDS Interop on GitHub":
+    - https://github.com/pdsinterop
+
+footer_content: '<p xmlns:dct="http://purl.org/dc/terms/"><a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a> To the extent possible under law, <a rel="dct:publisher" href="https://pdsinterop.org"><span property="dct:title">PDS Interop</span> (and its members)</a> have waived all copyright and related or neighboring rights to <span property="dct:title">to the Awesome Solid list</span>. Enjoy!</p>'
+
+gh_edit_repository: https://github.com/pdsinterop/awesome-solid
+logo: https://avatars3.githubusercontent.com/u/65920341
+search_enabled: true
