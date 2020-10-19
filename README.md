@@ -50,6 +50,8 @@ Places to talk to others, ask for help, and generally socialize.
 
 Things that help develop Solid related projects.
 
+- [PDS Interop Solid test-suites](https://pdsinterop.org/test-suites/) - Test suites for protocols a Personal Data Store may support
+  ([repo](https://github.com/pdsinterop/test-suites)).
 - [Solid Test-suite](https://github.com/solid/test-suite) - An automated test of Solid specification technical compliance.
 
 ## Examples and Prototypes
@@ -63,6 +65,8 @@ Things that explain how Solid works (or how to work with Solid).
 
 Things built on top of solid or that plug Solid into other things.
 
+- [Solid Nextcloud](https://pdsinterop.org/solid-nextcloud) - Turns a Nextcloud Server into a Solid Pod
+  ([repo](https://github.com/pdsinterop/solid-nextcloud)).
 - [Solid Pay](https://solidpay.org/) - Next Generation Web Payments
   ([docs](https://docs.solidpay.org/))
   ([GitHub](https://github.com/solidpayorg)).
@@ -77,6 +81,12 @@ be any production-ready Pod providers. Only the one prototypes in multiple place
 - [inrupt.net](https://inrupt.net/) - Hosted by Inrupt, Inc. on Amazon.
 - [solid.community](https://solid.community/) - Hosted by (?)) on (?)).
 - [Solid Web](https://solidweb.org/) - Hosted by Matthias Evering on (?)
+
+## Servers
+
+- [PHP Solid Server](https://pdsinterop.org/php-solid-server/)
+  \- Solid Server written in PHP
+  ([repo](https://github.com/pdsinterop/php-solid-server))
 
 -->
 
