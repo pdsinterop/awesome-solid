@@ -58,7 +58,7 @@ Things that help develop Solid related projects.
 
 Things that explain how Solid works (or how to work with Solid).
 
-- [solid.community](https://solid.community/) - Prototype implementation of a Solid server
+- [solidcommunity.net](https://solidcommunity.net/) - Prototype implementation of a Solid server
   ([repo](https://github.com/solid/node-solid-server/)).
 
 ## Plugins, Products, Projects, and Services
@@ -79,7 +79,7 @@ be any production-ready Pod providers. Only the one prototypes in multiple place
 ## Providers
 
 - [inrupt.net](https://inrupt.net/) - Hosted by Inrupt, Inc. on Amazon.
-- [solid.community](https://solid.community/) - Hosted by (?)) on (?)).
+- [solidcommunity.net](https://solidcommunity.net/) - Hosted by [Solid Community SysAdmins](https://github.com/solid/solidcommunity.net)) on DigitalOcean)).
 - [Solid Web](https://solidweb.org/) - Hosted by Matthias Evering on (?)
 
 ## Servers
